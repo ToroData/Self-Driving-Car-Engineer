@@ -2,7 +2,9 @@
 
 Welcome to the repository showcasing an exceptional autonomous driving system! This project highlights cutting-edge technologies, remarkable skills, and groundbreaking achievements in the field of self-driving cars. As you explore this repository, you will discover an impressive collection of algorithms, models, and code implementations that demonstrate the extraordinary capabilities of autonomous vehicles.
 
-![Logo](https://thedatascientist.digital/img/logo.png)
+<div align="center">
+    <img src="https://thedatascientist.digital/img/logo.png" alt="Logo" width="25%">
+</div>
 
 ## Project Overview
 
