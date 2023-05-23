@@ -6,10 +6,9 @@
 </div>
 This repository provides code examples and instructions for correcting image distortion using camera calibration techniques. The code is implemented in Python using the OpenCV library. 
 
-![Distorted and Undistorted Images](output/corners_found10.jpg)
-![corners_found33 Images](output/corners_found33.jpg)
-![corners_found8 Images](output/corners_found8.jpg)
-
+<img src="output/corners_found10.jpg" alt="Distorted and Undistorted Images" width="50%">
+<img src="output/corners_found33.jpg" alt="corners_found33 Images" width="50%">
+<img src="output/corners_found8.jpg" alt="corners_found8 Images" width="50%">
 
 ## Correcting For Distortion
 
