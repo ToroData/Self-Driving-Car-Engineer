@@ -18,6 +18,11 @@ The Waymo Open Dataset consists of TFRecord files containing data from car trips
 
 To parse the raw TFRecord files, we utilize the Waymo Open Dataset GitHub repository. It is recommended to refer to the Waymo Open Dataset tutorial to gain a better understanding of the data format before proceeding with this exercise.
 
+<span style="color:red">It is essential to download the tfrecord file: </span>
+
+    
+https://sdc-engineer.s3.eu-west-3.amazonaws.com/training_segment-1005081002024129653_5313_150_5333_150_with_camera_labels.tfrecord
+
 ## Tips
 
 To better comprehend the dataset structure, consult the Waymo Open Dataset documentation.
