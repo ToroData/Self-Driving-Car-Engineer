@@ -9,6 +9,8 @@ This project focuses on two main tasks: masking and statistics analysis of image
 
 ![](example.png)
 
+![](example3.png)
+
 
 ## Part 1 - Masking
 
@@ -18,6 +20,8 @@ The implementation consists of two functions:
 
 - **create_mask**: This function takes an input RGB image and a color threshold as arguments and returns a binary mask. The mask is created by comparing the RGB values of each pixel to the color threshold and assigning a value of 0 or 1 to the corresponding mask pixel.
 - **mask_and_display**: This function takes the image array and the mask array as arguments and displays the original image, the binary mask, and the masked image side by side.
+
+There is also a second file, masking_bounding_boxes.py, which combines the marking with the objectives of the first part.
 
 To run the code, execute the command python masking.py.
 
