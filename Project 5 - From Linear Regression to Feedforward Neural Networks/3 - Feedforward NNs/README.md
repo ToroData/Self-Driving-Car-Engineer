@@ -32,6 +32,9 @@ python training.py --imdir <path_to_data_directory> --epochs <number_of_epochs>
 ## Results
 
 The code will train a neural network using the provided data and display loss and accuracy plots during training. The results will be saved in an image file `plot_loss_acc_keras.png`.
+
+![](plot_loss_acc_keras.png)
+
 ## Contributions
 
 Contributions are welcome. If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
