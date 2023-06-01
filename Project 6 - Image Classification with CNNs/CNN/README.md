@@ -4,7 +4,7 @@
 
 In this exercise, you will use the Keras API to create a first CNN.
 
-[](graph1.png)
+![](graph1.png)
 
 ## Details
 
